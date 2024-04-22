@@ -1,0 +1,11 @@
+/* Estilos para el h1 */
+.site-title {
+    text-align: center; /* Centra horizontalmente el h1 */
+    font-size: 36px; /* Ajusta el tamaño del texto según tus preferencias */
+    margin-top: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.836); /* Espacio superior para separarlo de la barra de navegación */
+}
+
+body{
+    background-color: #6AD4DD;
+}
