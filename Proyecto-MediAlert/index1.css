@@ -9,3 +9,8 @@
 body{
     background-color: #6AD4DD;
 }
+
+p, b, br{
+    text-align: justify;
+    text-align:center';
+}
